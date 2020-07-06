@@ -212,7 +212,7 @@
 							"});",
 							"",
 							"if (!pm.environment.has('board_id')) {",
-							"    throw new Error ('Environment variable \"board_id\" is not available.')",
+							"    throw new Error ('Environment variable \"board_id\" is not available.');",
 							"}"
 						],
 						"type": "text/javascript"
@@ -298,7 +298,7 @@
 							"});",
 							"",
 							"if (!pm.environment.has('weekly_completion_list_id')) {",
-							"    throw new Error ('Environment variable \"weekly_completion_list_id\" is not available.')",
+							"    throw new Error ('Environment variable \"weekly_completion_list_id\" is not available.');",
 							"}"
 						],
 						"type": "text/javascript"
@@ -381,7 +381,7 @@
 							"});",
 							"",
 							"if (!pm.environment.has('inprogress_list_id')) {",
-							"    throw new Error ('Environment variable \"inprogress_list_id\" is not available.')",
+							"    throw new Error ('Environment variable \"inprogress_list_id\" is not available.');",
 							"}"
 						],
 						"type": "text/javascript"
@@ -464,7 +464,7 @@
 							"});",
 							"",
 							"if (!pm.environment.has('inprogress_list_id')) {",
-							"    throw new Error ('Environment variable \"inprogress_list_id\" is not available.')",
+							"    throw new Error ('Environment variable \"inprogress_list_id\" is not available.');",
 							"}"
 						],
 						"type": "text/javascript"
@@ -829,7 +829,7 @@
 							"});",
 							"",
 							"if (!pm.environment.has('report_card_id')) {",
-							"    throw new Error ('Environment variable \"report_card_id\" is not available.')",
+							"    throw new Error ('Environment variable \"report_card_id\" is not available.');",
 							"}",
 							"",
 							"// If the report_msg is not defined, then set it to empty string",
@@ -908,7 +908,7 @@
 							"});",
 							"",
 							"if (!pm.environment.has('label_id')) {",
-							"    throw new Error ('Environment variable \"label_id\" is not available.')",
+							"    throw new Error ('Environment variable \"label_id\" is not available.');",
 							"}"
 						],
 						"type": "text/javascript"
